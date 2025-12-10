@@ -1,0 +1,9 @@
+[book]
+title = "Ruiny zamku Karpień"
+authors = ["Karl Wehse"]
+description = "Ruiny Zamku Karpień - Karl Wehse (tłumaczenie gpt5.1)"
+language = "pl"
+
+[output.html]
+git-repository-url = "https://github.com/5tan/karpenstein"
+edit-url-template = "https://github.com/5tan/karpenstein/edit/master/{path}"
